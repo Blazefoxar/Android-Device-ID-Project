@@ -978,8 +978,8 @@ along with Foobar. If not, see http://www.gnu.org/licenses/.
     <device>
         <commonname>Galaxy S</commonname>
         <ro.product.model>GT-I9000</ro.product.model>
-        <ro.product.device>GT-I9000</ro.product.device>
-        <ro.product.board>GT-I9000</ro.product.board>
+        <ro.product.device>galaxysmtd</ro.product.device>
+        <ro.product.board>galaxysmtd</ro.product.board>
         <iso.3166-a3>INT</iso.3166-a3>
         <description></description>
     </device>
